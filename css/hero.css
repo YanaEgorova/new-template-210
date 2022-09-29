@@ -230,7 +230,9 @@
     .hero .swiper-slide {
         height: 82rem;
     }
-
+    .hero .title {
+        max-width: 50rem;
+    }
 
     .contacts__list {
         display: flex;
