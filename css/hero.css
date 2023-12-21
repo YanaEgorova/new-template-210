@@ -28,6 +28,7 @@
     z-index: 9;
     width: fit-content;
     padding: 6rem 2rem;
+    min-width: 26rem;
 }
 .hero__img {
     display: block;
